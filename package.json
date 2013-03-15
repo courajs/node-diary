@@ -1,0 +1,21 @@
+{
+  "name": "diary",
+  "version": "0.0.1",
+  "description": "Take notes, take em quick, and take em often.",
+  "main": "diary.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:FellowMD/node-diary.git"
+  },
+  "keywords": [
+    "diary",
+    "notes",
+    "utility",
+    "simple"
+  ],
+  "author": "Aaron Sikes",
+  "license": "WTFPL"
+}
